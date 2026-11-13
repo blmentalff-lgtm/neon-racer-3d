@@ -1,0 +1,12 @@
+
+{
+  "id": "/neon-racer-3d/",
+  "name": "NEON RACER 3D",
+  "short_name": "Neon Racer",
+  "start_url": "/neon-racer-3d/",
+  "scope": "/neon-racer-3d/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#050510",
+  "theme_color": "#00e5ff"
+}
