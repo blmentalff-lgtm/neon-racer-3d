@@ -3,6 +3,7 @@
   "id": "/neon-racer-3d/",
   "name": "NEON RACER 3D",
   "short_name": "Neon Racer",
+  "description": "An exciting 3D neon racing game. Dodge traffic, collect coins and beat your high score!",
   "start_url": "/neon-racer-3d/",
   "scope": "/neon-racer-3d/",
   "display": "fullscreen",
@@ -10,3 +11,4 @@
   "background_color": "#050510",
   "theme_color": "#00e5ff"
 }
+
